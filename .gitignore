@@ -1,0 +1,25 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdata
+*.xcworkspace/xcuserdata/
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Firebase credentials - KEEP PRIVATE
+GoogleService-Info.plist
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Xcode workspace
+*.xcworkspace/contents.xcworkspacedata
+!TodoApp-iPad.xcworkspace/contents.xcworkspacedata
